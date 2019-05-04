@@ -1,0 +1,71 @@
+.my-content {
+    padding: 8px;
+    width: 96%;
+    margin: auto;
+}
+
+.my-content-2 {
+    padding: 8px;
+    width: 86%;
+    margin: auto;
+}
+
+.my-chart {
+    height: 300px;
+    width: 100%;
+}
+.my-btn {
+    width: 150px;
+}
+.img-item {
+    width: 50px;
+    height: 50px;
+}
+.my-circle {
+    border-radius: 50%;
+}
+.my-anchor {
+    color: #333;
+    text-decoration: none;
+}
+.flex {
+    display: -webkit-flex;
+    display:flex; 
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.items {
+    border: 0;
+    width: 24%;
+    height: 100px;
+    margin: 1px;
+    text-align: center;
+    padding: 3px;
+    cursor: pointer;
+}
+.items:hover {
+    opacity: 0.9;
+}
+.counter-subcat-name {
+    color: gold;
+}
+.order-input {
+    width: 30px;
+    background-color: rgb(233, 103, 103);
+    border: 0;
+    color: #f7f7f7;
+    text-align: center;
+}
+
+.my-bill {
+    width: 100%;
+    margin:auto;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    height: 50px;
+}
+.my-padding {
+    padding: 8px;
+}
