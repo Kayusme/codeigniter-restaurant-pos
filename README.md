@@ -1,4 +1,4 @@
-#**Restaurant Point of Sale System**
+# **Restaurant Point of Sale System**
 
 * Dashboard
 * Add/Delete/Update Items
